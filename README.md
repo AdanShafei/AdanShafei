@@ -67,11 +67,5 @@ PostgreSQL schema + analytical queries (3NF, views, joins)
 
 ---
 
-### 📊 GitHub Stats
-![Adan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdanShafei&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdanShafei&layout=compact&theme=tokyonight)
-
----
-
 ### ✨ Beyond Code
 🎮 Gamer | 🧱 LEGO builder | ☕ Coffee-driven learner
