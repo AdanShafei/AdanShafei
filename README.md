@@ -1,5 +1,3 @@
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=100&section=header&text=Adan%20Shafei%20|%20Software%20%26%20ML%20Engineer&fontColor=ffffff&fontSize=30&fontAlignY=40)
-
 # 👋 Hi, I'm Adan Shafei
 
 🎓 **Computer Science @ UC Santa Cruz**  
