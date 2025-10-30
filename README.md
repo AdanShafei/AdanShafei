@@ -13,12 +13,12 @@
 ---
 
 ### 🧠 About Me
-I bridge **software systems**, **machine learning**, and **human-centered design** to build reliable, intelligent tech.
+I bridge **software systems**, **machine learning**, and **data modeling** to build intelligent and scalable technology.
 
 - 🔬 Research Assistant — Applied ML for biological systems (Prof. Gomez Lab)  
 - ⚙️ Systems: multithreaded HTTP servers in C (pthreads, synchronization)  
-- 🤖 ML: CNNs & LSTMs (PyTorch), data pipelines, evaluation  
-- 🌱 Exploring distributed AI + cloud integration
+- 🧮 Databases: applied SQL for data analytics and schema design (PostgreSQL)  
+- 🤖 ML: CNNs & LSTMs (PyTorch), data pipelines, evaluation
 
 ---
 
@@ -31,30 +31,22 @@ I bridge **software systems**, **machine learning**, and **human-centered design
 ---
 
 ### 🚀 Featured Projects
-#### 🌀 Drought Severity Predictor
-CNN + LSTM on 50K+ climate/socio-economic records — **~85% accuracy (+20% over baseline)**  
-> PyTorch · Data Preprocessing · Model Evaluation  
-[Repo](#)
 
-#### 🌐 Multithreaded HTTP Server (C)
-Dispatcher–worker server handling **1,000+ req/s** with synchronized logging  
-> C · Pthreads · Mutex/Condvars · Fault-tolerance  
-[Repo](#)
-
-#### 🧭 Pacman AI Search Agents
-DFS, BFS, UCS, A* with custom heuristics & greedy food search  
-> Python · Heuristic Search  
-[Repo](#)
+#### 🧮 Huffman Compression Encoder
+Implemented Huffman encoding and decoding to compress text files efficiently by assigning variable-length binary codes based on frequency.  
+> C · Data Structures · Binary Trees  
+[🔗 View Repository](#)
 
 #### 🧬 COVID-19 Data Classification
-SVM & Random Forest reaching **~92% F1-score**  
-> Python · Scikit-learn · Visualization  
-[Repo](#)
+Trained Random Forest, SVM, and Decision Tree models on 5K+ synthetic patient records, achieving **92% F1-score**.  
+> Python · Scikit-learn · Data Visualization  
+[🔗 View Repository](#)
 
-#### 🧩 Transit SQL Database System
-PostgreSQL schema + analytical queries (3NF, views, joins)  
-> SQL · Postgres  
-[Repo](#)
+#### 🌦️ Drought Severity Predictor
+Built CNN and LSTM models on 50K+ climate & socio-economic records to predict drought levels with **~85% accuracy (+20% over baseline)**.  
+> Python · PyTorch · Data Preprocessing · Model Evaluation  
+[🔗 View Repository](#)
+
 
 ---
 
