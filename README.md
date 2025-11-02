@@ -4,7 +4,7 @@
 💡 **Minor in Technology & Information Management**  
 📧 [adan.shafi13@gmail.com](mailto:adan.shafi13@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AdanShafei-blue?style=flat&logo=linkedin)](https://linkedin.com/in/adan-shafei)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AdanShafei-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/adan-shafei-24aab3249/)
 [![GitHub](https://img.shields.io/badge/GitHub-AdanShafei-black?style=flat&logo=github)](https://github.com/AdanShafei)
 [![Email](https://img.shields.io/badge/Email-adan.shafi13@gmail.com-red?style=flat&logo=gmail)](mailto:adan.shafi13@gmail.com)
 
