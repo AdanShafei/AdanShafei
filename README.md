@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Adan Shafei
+# 👋 Hey there, I'm **Adan Shafei**
 
-🎓 **Computer Science @ UC Santa Cruz**  
+🎓 **B.S. Computer Science @ UC Santa Cruz**  
 💡 **Minor in Technology & Information Management**  
 📧 [adan.shafi13@gmail.com](mailto:adan.shafi13@gmail.com)
 
@@ -13,49 +13,71 @@
 ---
 
 ### 🧠 About Me
-I bridge **software systems**, **machine learning**, and **data modeling** to build intelligent and scalable technology.
 
-- 🔬 Research Assistant — Applied ML for biological systems (Prof. Gomez Lab)  
-- ⚙️ Systems: multithreaded HTTP servers in C (pthreads, synchronization)  
-- 🧮 Databases: applied SQL for data analytics and schema design (PostgreSQL)  
-- 🤖 ML: CNNs & LSTMs (PyTorch), data pipelines, evaluation
+I’m currently pursuing my **B.S. in Computer Science at UC Santa Cruz** with a **minor in Technology & Information Management**.  
+I focus on bridging **machine learning**, **software systems**, and **data-driven design** to build intelligent, scalable technology.
+
+- 🔬 **Research Assistant (Gomez Lab)** — ML for biological structure analysis  
+- ⚙️ Designed multithreaded HTTP servers in C (pthreads, concurrency, synchronization)  
+- 🧮 Applied SQL for data analytics and relational schema design (PostgreSQL)  
+- 🤖 Built and optimized CNNs, LSTMs, and segmentation pipelines (PyTorch)
 
 ---
 
 ### 🧰 Tech Stack
-**Languages:** Python, C/C++, SQL, Assembly, MATLAB  
-**Frameworks:** PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib  
-**Tools:** Docker, Git, REST APIs, AWS  
-**Concepts:** CNN, LSTM, Transformers/YOLO, Systems Programming
+
+**Languages:** Python · C/C++ · SQL · Assembly · MATLAB  
+**Frameworks:** PyTorch · Scikit-learn · Pandas · NumPy · Matplotlib  
+**Tools:** Docker · Git · REST APIs · AWS  
+**Concepts:** CNN · LSTM · Transformers · Systems Programming
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🧮 Huffman Compression Encoder
-Implemented Huffman encoding and decoding to compress text files efficiently by assigning variable-length binary codes based on frequency.  
-> C · Data Structures · Binary Trees  
-[🔗 View Repository](#)
+#### 🧮 [**Huffman Compression Encoder**](https://github.com/AdanShafei/huffman-encoder)
+Lossless text compression using **Huffman coding** — builds a frequency table, priority queue, and binary tree to encode/decode efficiently.  
+> 🧠 *C · Data Structures · File I/O · Binary Trees*
 
-#### 🧬 COVID-19 Data Classification
-Trained Random Forest, SVM, and Decision Tree models on 5K+ synthetic patient records, achieving **92% F1-score**.  
-> Python · Scikit-learn · Data Visualization  
-[🔗 View Repository](#)
+---
 
-#### 🌦️ Drought Severity Predictor
-Built CNN and LSTM models on 50K+ climate & socio-economic records to predict drought levels with **~85% accuracy (+20% over baseline)**.  
-> Python · PyTorch · Data Preprocessing · Model Evaluation  
-[🔗 View Repository](#)
+#### 🧬 [**COVID-19 Data Classifier**](https://github.com/AdanShafei/covid19-classifier)
+Trained **Random Forest**, **SVM**, and **Decision Tree** models on synthetic health data to classify COVID-19 outcomes with **~92% F1-score**.  
+> ⚙️ *Python · Scikit-learn · Data Visualization · Model Evaluation*
 
+---
+
+#### 🌦️ [**Drought Severity Predictor**](https://github.com/AdanShafei/drought-severity-predictor)
+Predicted drought levels (**D0–D3**) using **XGBoost** and a **Fully Connected Neural Network** trained on climate and soil metrics.  
+Achieved **~82% validation accuracy** and **85% balanced accuracy**.  
+> 🌱 *Python · ML Pipeline · Feature Engineering · Imbalanced Data Handling*
+
+---
+
+#### 🛰️ [**Semi-Supervised Image Segmentation**](https://github.com/AdanShafei/semi-supervised-image-segmentation)
+Developed a **semi-supervised segmentation** pipeline for satellite imagery using **ResNet-18**, **Dice + BCE loss**, and **pseudo-labeling**.  
+Improved mIoU by **+9 points** through confident pseudo-label retraining and test-time augmentation.  
+> 🧩 *PyTorch · Computer Vision · Semi-Supervised Learning · Model Optimization*
 
 ---
 
 ### 🏛 Experience
-- **Undergraduate Research Assistant — UC Santa Cruz** (Apr 2025 – Present)  
-- **Professor Design Assistant — CSE101P** (Oct 2024 – Mar 2025)  
-- **Reader — TIM50** (Apr 2024 – Jun 2025)
+
+- **Undergraduate Research Assistant — UC Santa Cruz** *(Apr 2025 – Present)*  
+  Applying ML for analyzing biological systems and pattern discovery.  
+- **Professor Design Assistant — CSE101P** *(Oct 2024 – Mar 2025)*  
+  Supported course design, grading automation, and data structure demos.  
+- **Reader — TIM50** *(Apr 2024 – Jun 2025)*  
+  Assisted in teaching business information systems and data modeling.
 
 ---
 
 ### ✨ Beyond Code
-🎮 Gamer | 🧱 LEGO builder | ☕ Coffee-driven learner
+
+🎮 Gamer | 🧱 LEGO Builder | ☕ Coffee-Driven Learner | 🌌 Always Curious  
+
+> _“Engineering is the closest thing we have to magic.”_ ✨
+
+---
+
+⭐ **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/adan-shafei-24aab3249/) • [Email](mailto:adan.shafi13@gmail.com)
