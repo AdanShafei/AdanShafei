@@ -61,6 +61,19 @@ Improved mIoU by **+9 points** through confident pseudo-label retraining and tes
 
 ---
 
+---
+
+#### 🕹️ **Pac-Man Capture the Flag (CSE 140 AI Project)**
+Designed a **two-agent adversarial AI system** for Pac-Man Capture the Flag using **feature-based evaluation functions** with manually tuned weights.
+
+- Built an **offensive agent** optimizing food collection, threat avoidance, and safe return timing  
+- Built a **defensive agent** prioritizing invader interception and food protection using threat scoring  
+- Achieved **9/10 average performance vs. baseline agents** and a **38/56 final tournament score**
+
+> 🤖 *Python · Multi-Agent Systems · Heuristic Evaluation · Adversarial AI · Feature Engineering*
+
+---
+
 ### 🏛 Experience
 
 - **Undergraduate Research Assistant — UC Santa Cruz** *(Apr 2025 – Present)*  
