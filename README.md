@@ -1,103 +1,93 @@
-# 👋 Hi, I’m Adan Shafei
+<h1 align="center">Hi, I'm Adan Shafei 👋</h1>
 
-🎓 **B.S. Computer Science @ UC Santa Cruz**  
-📘 **Minor in Technology & Information Management**  
-📧 [adan.shafi13@gmail.com](mailto:adan.shafi13@gmail.com)
+<p align="center">
+  Software & AI Engineer · CS Graduate, UC Santa Cruz · Open to SWE, AI, and Data Engineering roles
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adan%20Shafei-blue?logo=linkedin)](https://www.linkedin.com/in/adan-shafei-24aab3249/)
-[![GitHub](https://img.shields.io/badge/GitHub-AdanShafei-black?logo=github)](https://github.com/AdanShafei)
-
----
-
-## 🧠 About Me
-
-I’m a Computer Science student at **UC Santa Cruz** with a strong interest in **artificial intelligence, machine learning, and intelligent systems design**.  
-I enjoy building systems that think, adapt, and operate under real-world constraints — turning theory into clean, performant code.
-
-**Currently focused on:**
-- Artificial Intelligence & Multi-Agent Systems  
-- Machine Learning & Deep Learning  
-- Systems Design & Optimization  
+<p align="center">
+  <a href="https://www.linkedin.com/in/adan-shafei-24aab3249/">
+    <img src="https://img.shields.io/badge/LinkedIn-Adan%20Shafei-blue?logo=linkedin" />
+  </a>
+  <a href="mailto:adan.shafi13@gmail.com">
+    <img src="https://img.shields.io/badge/Email-adan.shafi13@gmail.com-red?logo=gmail" />
+  </a>
+  <a href="https://github.com/AdanShafei">
+    <img src="https://img.shields.io/badge/GitHub-AdanShafei-black?logo=github" />
+  </a>
+</p>
 
 ---
 
-## 🧰 Technical Toolkit
+## About Me
 
-**Languages**  
-Python · C/C++ · SQL · MATLAB · Assembly  
+CS graduate from **UC Santa Cruz** (Minor: Technology & Information Management) focused on building intelligent, scalable systems. My work spans ML pipelines, multi-agent AI, and systems programming — I care about code that performs under real-world constraints, not just in notebooks.
 
-**Frameworks & Libraries**  
-PyTorch · Scikit-learn · NumPy · Pandas · Matplotlib  
-
-**Tools & Platforms**  
-Git · Docker · PostgreSQL · REST APIs · AWS  
-
-**Core Concepts**  
-Machine Learning · Multi-Agent Systems · CNNs · LSTMs · Heuristic Evaluation · Systems Programming  
+Currently seeking roles in **software engineering, AI/ML engineering, and data engineering**.
 
 ---
 
-## 🚀 Featured Projects
+## Tech Stack
 
-### 🕹️ [Pac-Man Capture the Flag — Multi-Agent AI](https://github.com/AdanShafei/pacman-capture-the-flag-ai)
-Designed a **two-agent adversarial AI system** capable of real-time decision-making in a competitive environment.
+**Languages:** Python · C/C++ · SQL · MATLAB · Assembly
 
-- Offensive agent balances food collection, risk, and safe returns  
-- Defensive agent prioritizes invader interception using threat-based heuristics  
-- Achieved **9/10 average performance** against baseline agents  
+**ML/AI:** PyTorch · Scikit-learn · XGBoost · CNNs · LSTMs · Semi-Supervised Learning
 
-> *Python · Artificial Intelligence · Multi-Agent Systems · Heuristic Design*
+**Data & Infra:** NumPy · Pandas · PostgreSQL · REST APIs · Docker · AWS
+
+**CS Fundamentals:** Multi-threaded Systems · Concurrent Programming · Data Structures · Heuristic Search
 
 ---
 
-### 🛰️ [Semi-Supervised Image Segmentation](https://github.com/AdanShafei/semi-supervised-image-segmentation)
-Built a **semi-supervised segmentation pipeline** for satellite imagery using pseudo-labeling and deep feature extraction.
+## Featured Projects
 
-- Improved mIoU by **+9 points** via confident pseudo-label retraining  
-- Applied Dice + BCE loss and test-time augmentation  
+### 🤖 [Pac-Man Multi-Agent AI](https://github.com/AdanShafei/pacman-capture-the-flag-ai)
+Designed a two-agent adversarial system with real-time decision-making for competitive Capture the Flag.
+- Offensive agent balances food collection, risk assessment, and safe returns
+- Defensive agent uses threat-based heuristics to prioritize invader interception
+- Achieved **9/10 average performance** against baseline agents
 
-> *PyTorch · Computer Vision · Semi-Supervised Learning*
+`Python · Multi-Agent Systems · Heuristic Evaluation · AI`
 
 ---
 
 ### 🌦️ [Drought Severity Predictor](https://github.com/AdanShafei/drought-severity-predictor)
-Predicted drought levels (D0–D3) using climate and soil data.
+ML pipeline to classify drought severity (D0–D3) from climate and soil data.
+- Combined XGBoost and neural network models with imbalanced-class handling
+- Reached **~82% validation accuracy** and **85% balanced accuracy**
 
-- Implemented XGBoost and neural network models  
-- Achieved **~82% validation accuracy** and **85% balanced accuracy**  
-
-> *Machine Learning · Feature Engineering · Imbalanced Data*
-
----
-
-### 🧮 [Huffman Compression Encoder](https://github.com/AdanShafei/huffman-encoder)
-Implemented a lossless text compression system using Huffman coding.
-
-- Built priority queues and binary trees from scratch  
-- Emphasized correctness, efficiency, and low-level control  
-
-> *C · Data Structures · Algorithms*
+`Python · PyTorch · XGBoost · Feature Engineering · Imbalanced Data`
 
 ---
 
-## 🏛 Experience
+### 🛰️ [Semi-Supervised Image Segmentation](https://github.com/AdanShafei/semi-supervised-image-segmentation)
+Satellite image segmentation pipeline using pseudo-labeling and deep feature extraction.
+- Improved mIoU by **+9 points** via confident pseudo-label retraining
+- Applied Dice + BCE loss with test-time augmentation
 
-**Undergraduate Research Assistant — UC Santa Cruz** *(Apr 2025 – Present)*  
-Applying machine learning techniques to analyze biological systems and emergent structural patterns.
-
-**Professor Design Assistant — CSE 101P** *(Oct 2024 – Mar 2025)*  
-Supported course design, grading automation, and data structure demonstrations.
-
-**Reader — TIM 50** *(Apr 2024 – Jun 2025)*  
-Assisted instruction in business information systems and data modeling.
+`PyTorch · ResNet-18 · Computer Vision · Semi-Supervised Learning`
 
 ---
 
-## ✨ Beyond Code
+### 🔢 [Huffman Compression Encoder](https://github.com/AdanShafei/huffman-encoder)
+Lossless text compression in C using Huffman coding, built from scratch.
+- Implemented priority queues and binary trees at the bit level
 
-🧱 LEGO engineering · 🎮 Gaming · ☕ Coffee-powered learning · 🔍 Always curious  
+`C · Systems Programming · Data Structures · Algorithms`
 
 ---
 
-📌 **Let’s connect:**  
-[LinkedIn](https://www.linkedin.com/in/adan-shafei-24aab3249/) · [Email](mailto:adan.shafi13@gmail.com)
+## Experience
+
+**Undergraduate Research Assistant — Marcella Gomez Lab, UC Santa Cruz** *(2025)*  
+Applied ML techniques to analyze biological systems and emergent structural patterns using PyTorch-based pipelines.
+
+**Reader — CSE 140 & CSE 101, UC Santa Cruz** *(2024–2025)*  
+Evaluated coursework and supported instruction in data structures, algorithms, and discrete math.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdanShafei&show_icons=true&theme=default&hide_border=true" height="150"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdanShafei&layout=compact&theme=default&hide_border=true" height="150"/>
+</p>
