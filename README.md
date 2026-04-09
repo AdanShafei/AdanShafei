@@ -85,9 +85,3 @@ Applied ML techniques to analyze biological systems and emergent structural patt
 Evaluated coursework and supported instruction in data structures, algorithms, and discrete math.
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdanShafei&show_icons=true&theme=default&hide_border=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdanShafei&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
