@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Adan%20Shafei&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%C2%B7%20AI%2FML%20%C2%B7%20MSc%20Machine%20Learning%20%40%20UCL&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Adan%20Shafei&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20%C2%B7%20MSc%20Machine%20Learning%20%40%20UCL&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/AdanShafei">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=F75C7E&center=true&vCenter=true&width=650&lines=Building+ML+systems+that+work+outside+a+notebook;MSc+Machine+Learning+%40+UCL;CS+Graduate+(Honors)+%40+UC+Santa+Cruz;Open+to+SWE+%2F+AI-ML+%2F+Data+Eng+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=F75C7E&center=true&vCenter=true&width=820&lines=Building+ML+systems+that+work+outside+a+notebook;MSc+Machine+Learning+%40+UCL;CS+Graduate+(Honors)+%40+UC+Santa+Cruz;Open+to+SWE+%2F+AI-ML+%2F+Data+Eng+roles" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -17,10 +17,6 @@
 <a href="https://github.com/AdanShafei">
   <img src="https://img.shields.io/badge/GitHub-AdanShafei-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=AdanShafei&style=for-the-badge&color=f75c7e&label=PROFILE+VIEWS" />
 
 </div>
 
