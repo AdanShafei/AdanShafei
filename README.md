@@ -79,18 +79,9 @@ Minor: Technology & Information Management · GPA 3.62
 
 **CS Fundamentals:** Multi-threaded Systems · Concurrent Programming · Data Structures · Heuristic Search
 
-</div>
-
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AdanShafei&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdanShafei&layout=compact&theme=radical&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdanShafei&theme=radical&hide_border=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdanShafei&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -141,30 +132,6 @@ Build Python pipelines that analyse simulation-derived CSV data on emergent cell
 
 **Reader — CSE 140 (AI) & CSE 101 (Data Structures & Algorithms), UC Santa Cruz** · *Jan – Mar 2026*
 Evaluated assignments and exams for 200+ students across search, optimisation, and graph algorithms.
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AdanShafei&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
-
-</div>
-
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdanShafei/AdanShafei/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdanShafei/AdanShafei/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/AdanShafei/AdanShafei/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
 
 <br/>
 
